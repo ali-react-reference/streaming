@@ -74,4 +74,7 @@ export const deleteStream = (id) => async (dispatch) => {
     type: DELETE_STREAM,
     payload: id,
   });
+  
+  // programatic navigation back to stream lists with history
+  history.push("/");
 };

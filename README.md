@@ -10,3 +10,4 @@ This project contains
 - reacting from action creator - history, App, actions/index
 - routing with dynamic url (params) - StreamList, App, StreamEdit
 - reusing components - StreamCreate, StreamEdit, StreamForm
+- portals - StreamDelete, Modal: render the element as a child of another element so it can overlay other stuff
