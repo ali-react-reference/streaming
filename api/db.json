@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "New stream",
+      "description": "AAAh yeah",
+      "userId": "100516975260272575483",
+      "id": 1
+    },
+    {
+      "title": "Coding",
+      "description": "asdf",
+      "userId": "100516975260272575483",
+      "id": 2
+    },
+    {
+      "title": "Some new stream??",
+      "description": "new wwww",
+      "userId": "100516975260272575483",
+      "id": 3
+    }
+  ]
+}
