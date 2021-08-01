@@ -14,9 +14,10 @@ This project contains
 - rtmp server - rtmp-server/index (node-media-server)
 
 # To use
-- ```cd react-streaming && npm install && npm start```
-- ```cd ../api && npm install && npm start```
-- ```cd ../rtmp-server && npm install && npm start```
+- open 3 console tabs
+- tab 1 - ```make react```
+- tab 2 - ```make api-server```
+- tab 3 - ```make rtmp-server```
 - Get OBS studio
   - Send the stream to url: ```rtmp://localhost:1935/live``` with a key: ```1```
   - start streaming
